@@ -1,8 +1,1 @@
-Istilah-istilah dalam Git : 
--Commit : Rekaman/Snapshot dari repo
--Hash : Penanda pada sebuah commit
--Chekcout : Berpindah ke sebuah commit
--Branch : Cabang dari sebuah commit 
--Merge : Menggabungkan branch
--Push : Mengirim
--Pull : Mengambil
+Isi konten file2 dari branch mytask

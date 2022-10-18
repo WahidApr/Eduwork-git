@@ -1,4 +1,1 @@
-3 Point Git Fundamental : Control System, Version Control System, dan Distributed Version Control System.
-Fungsi dari Github
-How to start ?
-Istilah-istilah dalam Git
+Saya belajar git

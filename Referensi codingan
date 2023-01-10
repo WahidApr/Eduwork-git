@@ -1,0 +1,13 @@
+/// <reference types="cypress"/>
+
+describe('Login/Logout',() => {
+    before(() => {
+        cy.visit('https://www.saucedemo.com')
+    });
+
+    it('Login valid data - Succeed', () => {
+        cy.get('#user-name').type('standard_user')
+        cy.get('#password').type('secret_sauce')
+        cy.get('input[name="login-button"]').click()
+        cy.url().should('include','inventory.html')
+    });
